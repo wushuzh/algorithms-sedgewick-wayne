@@ -1,0 +1,4 @@
+a) primitive double 1.618
+b) primitive double 10.0
+c) primitive boolean true
+d) class java.lang.String 33
