@@ -1,0 +1,4 @@
+a) "then" should not be used in conditional expression
+b) There is no parentheses for "a > b"
+c) Correct
+d) Missing the semicolon after "c = 0"
